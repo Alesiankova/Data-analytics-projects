@@ -4,7 +4,7 @@ ___
 For a large online store, together with the marketing department, a list of hypotheses was prepared to increase revenue.
 
 During the project: 
-- 9 hypotheses were prioritized to increase revenue. Hypotheses were prioritized by ICE and RICE frameworks. 
+- 9 hypotheses were prioritized to increase revenue by ICE and RICE frameworks. 
 - I analyzed the results of the A/B test, built graphs of cumulative revenue, average check, conversion by group, and then calculated the statistical significance of differences in conversions and average checks for raw and cleaned data. 
 
 Based on the analysis, I decided that it was not advisable to continue the test.
