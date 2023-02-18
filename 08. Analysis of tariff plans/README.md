@@ -18,7 +18,7 @@ data of 500 Megaline users:
 - who they are, 
 - where they are from, 
 - what tariff they use, 
-- how many calls and messages each sent in 2018
+- how many calls and messages sent by each user in 2018
 ___
 ### Used libraries/methods
 Pandas, Scipy, Numpy, Matplotlib, Seaborn, Math
