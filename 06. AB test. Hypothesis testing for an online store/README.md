@@ -1,7 +1,7 @@
 ## Project - "A/B test. Hypothesis testing for an online store"
 ___
 ### Project description
-For a large online store, together with the marketing department, a list of hypotheses was prepared to increase revenue.
+Together with the marketing department a list of hypotheses was prepared to increase revenue for a large online store.
 
 During the project: 
 - 9 hypotheses were prioritized to increase revenue by ICE and RICE frameworks. 
