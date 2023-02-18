@@ -1,4 +1,4 @@
-## Project - "valuation of the results and correctness of the A/B test"
+## Project - "Evaluation of the results and correctness of the A/B test"
 ___
 ### Project description
 The company conducted the A/B test "recommender_system_test". Based on the dataset with user actions, terms of reference and auxiliary datasets, it is necessary to evaluate the results of the A/B test and evaluate the correctness of its implementation.
