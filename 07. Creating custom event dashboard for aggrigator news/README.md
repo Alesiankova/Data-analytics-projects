@@ -1,4 +1,4 @@
-## Project - "Creating custom event dashboard for aggrigator news"
+## Project - "Creating custom event dashboard for news aggregator"
 ___
 ### Project description
 It is necessary to make a dashboard showing the interaction of users with cards. In the course of work, I unloaded data from the database, made a dashboard and a presentation 
