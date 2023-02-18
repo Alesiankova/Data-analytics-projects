@@ -11,22 +11,23 @@ Based on the analysis, I decided that it was not advisable to continue the test.
 ___
 ### Data description
 File /datasets/hypothesis.csv :
-Hypothesis - a brief description of the hypothesis;
-Reach - user coverage on a 10-point scale;
-Impact - impact on users on a 10-point scale;
-Confidence - confidence in the hypothesis on a 10-point scale;
-Efforts - the cost of resources to test the hypothesis on a 10-point scale. The larger the Efforts value, the more expensive it is to test the hypothesis.
+- Hypothesis - a brief description of the hypothesis;
+- Reach - user coverage on a 10-point scale;
+- Impact - impact on users on a 10-point scale;
+- Confidence - confidence in the hypothesis on a 10-point scale;
+- Efforts - the cost of resources to test the hypothesis on a 10-point scale. The larger the Efforts value, the more expensive it is to test the hypothesis.
 
 File /datasets/orders.csv :
-transactionId - order identifier;
-visitorId - identifier of the user who made the order;
-date — date when the order was made;
-revenue — order revenue;
-group — the A/B test group the order belongs to.
+- transactionId - order identifier;
+- visitorId - identifier of the user who made the order;
+- date — date when the order was made;
+- revenue — order revenue;
+- group — the A/B test group the order belongs to.
+
 File /datasets/visitors.csv. Download dataset
-date - date;
-group — A/B test group;
-visitors - the number of users on the specified date in the specified A/B test group
+- date - date;
+- group — A/B test group;
+- visitors - the number of users on the specified date in the specified A/B test group
 ___
 ### Used libraries/methods
 Pandas, Matplotlib, SciPy, A/B testing, testing of statistical hypotheses
