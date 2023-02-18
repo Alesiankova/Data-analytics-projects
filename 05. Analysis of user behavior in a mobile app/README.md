@@ -15,10 +15,10 @@ ___
 Each entry in the log is a user action, or event.
 
 Table data (logs from 2019-07-25 to 2019-08-07):
-EventName - event name;
-DeviceIDHash - unique user identifier;
-EventTimestamp - event time;
-ExpId is the number of the experiment: 246 and 247 are the control groups, and 248 is the experimental group.
+- EventName - event name;
+- DeviceIDHash - unique user identifier;
+- EventTimestamp - event time;
+- ExpId is the number of the experiment: 246 and 247 are the control groups, and 248 is the experimental group.
 ___
 ### Used libraries/methods
 Pandas, Matplotlib, Math, Numpy, Scipy, Plotly
