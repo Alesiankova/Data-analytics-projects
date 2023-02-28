@@ -1,4 +1,5 @@
 Here are presented projects on data analytics during Yandex Practicum Bootcamp(2022-2023)
+___
 Author of the projects - **Alesiankova Darya**
 
 | Project name | Description | Used libraries/methods | 
