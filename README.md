@@ -1,3 +1,6 @@
+Here are presented projects on data analytics during Yandex Practicum Bootcamp(2022-2023)
+Author of the projects - **Alesiankova Darya**
+
 | Project name | Description | Used libraries/methods | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [1. Analysis of user behavior in Unnecessary things app](01.%20Analysis%20of%20user%20behavior%20in%20app%20Unnecessary%20things)| In application "Unnecessary things" users sell their unnecessary things. The project describes: what events influence the conversion to the target action,  what application usage scenarios stand out,  how time differs between common user events |*Pandas, Matplotlib, Seaborn, Plotly, event analytics, product metrics,  statistical hypothesis testing, data visualization* |
